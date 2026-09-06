@@ -1,0 +1,28 @@
+.cat {
+  width: 50px;
+  height: 50px;
+  vertical-align: middle;
+  object-fit: cover;
+  border-radius: 25px;
+  margin-right: 5px;
+}
+.text {
+  border: none;
+  font-size: 18px;
+  width: 200px;
+  margin-right: 70px;
+}
+.tweet {
+  background-color: rgb(29, 155, 240);
+  border: none;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 16px;
+  padding-left: 16px;
+  border-radius: 30px;
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+  vertical-align: middle;
+  cursor: pointer;
+}
