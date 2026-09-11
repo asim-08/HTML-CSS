@@ -1,13 +1,10 @@
 .thumbnail {
-  width: 300px;
+  width: 200px;
   display: block;
 }
 .search-bar {
   margin-left: 12px;
 }
-.video-author {
-  display: inline-block;
-}
-.video-stats {
-  display: inline-block;
+.video-title {
+  width: 300px;
 }
