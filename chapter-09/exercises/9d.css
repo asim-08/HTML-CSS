@@ -1,0 +1,24 @@
+.install {
+  color: white;
+  font-weight: bold;
+  font-size: 24px;
+  font-family: Arial;
+  margin-bottom: 10px;
+
+}
+.service {
+  border-color: rgb(150, 150, 150);
+  background-color: rgb(33, 33, 33);
+  border-width: 1px;
+  width: 350px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  padding-right: 15px;
+  padding-left: 15px;
+  border-style: solid;
+}
+.des {
+  color: gray;
+  font-family: Arial;
+  margin-top: 0px;
+}
