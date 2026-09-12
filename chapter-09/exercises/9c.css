@@ -1,0 +1,12 @@
+.service {
+  border-color: rgb(150, 150, 150);
+  border-width: 1px;
+  width: 300px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+  border-style: solid;
+
+}
+.des {
+  font-family: Arial;
+}
